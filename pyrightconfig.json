@@ -1,0 +1,6 @@
+{
+  "extraPaths": [
+    "fraud-detection-system/backend",
+    "fraud-detection-system"
+  ]
+}
